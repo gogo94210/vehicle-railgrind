@@ -1,0 +1,9 @@
+{
+    "name": "vehicle-railgrind",
+    "version": "0.1",
+    "title": "Vehicle Railgrind",
+    "author": "gogo94210",
+    "factorio-version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mods allows you to drive vehicles on rails, aligning them with the track and providing a speed boost."
+}
