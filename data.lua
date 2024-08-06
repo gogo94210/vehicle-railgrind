@@ -2,7 +2,7 @@ local carGrindTech = {
     type = "technology",
     name = "car-grind",
     icon = "__vehicle-railgrind__/car_tech.png",
-    icon_size = 128,
+    icon_size = 256,
     prerequisites = {"automobilism", "railway"},
     unit =
     {
